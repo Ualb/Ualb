@@ -5,7 +5,7 @@
 #### I live in Managua, Nicaragua, i am a technology enthusiast and good friend :)
     
 - ⚡ I’m currently learning everything 🤣 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🤣 Fun fact: I love to play guitar / harmonica
  
 ### Connect with me:
