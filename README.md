@@ -1,54 +1,27 @@
-## **Hi! I am Ulises López 👋**
+<h1 align = "center"> Hola 👋, soy Ulises López </h1>
+<h3 align = "center"> Un apasionado desarrollador de frontend de Nicaragua </h3>
 
-<!-- ![](https://github.com/Ualb/Ualb/blob/master/readmegithub.png) -->
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=ualb&label=Profile%20views&color=0e75b6&style=flat" alt = "ualb" /> </p>
 
-#### I live in Managua, Nicaragua, i am a technology enthusiast and good friend :)
-    
-- ⚡ I’m currently learning everything 🤣 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🤣 Fun fact: I love to play guitar / harmonica
- 
-### Connect with me:
-  
-[<img align="left" width="25px" src="https://avatars3.githubusercontent.com/u/50278?s=200&v=4" />][twitter]
-[<img align="left" width="25px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512"/>][facebook]
-[<img align="left" width="29px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
-<br />
+<p align = "left"> <a href = "https: //github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=ualb" alt = "ualb" /> </ a> </p>
 
-### Languages and Tools:
- 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][mdn]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][mdn]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][mdn]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][w3school]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cmd]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
+<p align = "left"> <a href="https://twitter.com/" target="blank"> <img src = "https://img.shields.io/twitter / follow /? logo = twitter & style = for-the-badge "alt =""/> </a> </p>
 
-<br />
-<br /> 
-  
- 
-[twitter]: https://twitter.com/SmallSonOfGod
-[facebook]: https://www.facebook.com/ulisesantonio.lopesbenavidez/
-[linkedin]: https://www.linkedin.com/in/ulises-benavides-53a651192/
-[mdn]: https://developer.mozilla.org/es/
-[sass]: https://sass-lang.com
-[w3school]: https://www.w3schools.com/sql/
-[mysql]: https://www.mysql.com
-[git]: https://git-scm.com
-[github]: https://github.com
-[cmd]: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
-[python]: https://www.python.org
-[django]: https://www.djangoproject.com
-[java]: https://www.java.com/es/
-[postgresql]: https://www.postgresql.org
- 
+- 🔭 Actualmente estoy trabajando en ** Theia **
 
-#### :muscle: write, eat, repeat
+- 🌱 Actualmente estoy aprendiendo ** Django, Devos, IA **
+
+- ⚡ Dato curioso ** Reproducir música **
+
+
+<h3 align = "left"> Idiomas y herramientas: </h3>
+<p align = "left"> <a href="https://getbootstrap.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ bootstrap / bootstrap-plain-wordmark.svg "alt =" bootstrap "width =" 40 "height =" 40 "/> </a> <a href =" https://www.cprogramming.com/ "target =" _blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "alt =" c "width =" 40 "height =" 40 "/ > </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg "alt =" cassandra "width =" 40 "height =" 40 "/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = "40" /> </a> < a href = "https://www.w3schools.com/css/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3- original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt = "django" width = "40" height = "40" /> </ a > <a href="https://git-scm.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon. svg "alt =" git "width =" 40 "height =" 40 "/> </a> <a href="https://golang.org" target="_blank"> <img src =" https: / /raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg "alt =" go "width =" 40 "height =" 40 "/> </a> <a href =" https : //heroku.com "target =" _ blank "><img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt = "heroku" width = "40" height = "40" /> </a> <a href = "https://www.w3.org/html/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href="https://www.java.com" target="_blank"> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt =" java "width =" 40 "height =" 40 "/> </a> <a href = "https: // desarrollador.mozilla.org/en-US/docs/Web/JavaScript "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href="https://mariadb.org/" target="_blank"> <img src =" https: / /www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg "alt =" mariadb "width =" 40 "height =" 40 "/> </a> <a href =" https://materializecss.com / "target =" _ blank "> <img src =" https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg "alt =" materialize "width = "40" height = "40" /> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src = "https: //raw.githubusercontent .com / simple-icons / simple-icons / master / icons / mathworks.svg "alt =" matlab "width =" 40 "height =" 40 "/> </a> <a href =" https: // www .mongodb.com / "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg "alt =" mongodb " width = "40" height = "40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src = " https: // cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg "alt =" mssql "width =" 40 "height =" 40 "/> </a> <a href =" https://www.mysql.com/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 " height = "40" /> </a> <a href="https://www.php.net" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/php/php-original.svg "alt =" php "width =" 40 "height =" 40 "/> </a> <a href =" https://www.postgresql.org "objetivo = "_ en blanco"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgresql" width = "40" height = "40" /> </a> <a href="https://postman.com" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt = "cartero" width = "40" height = "40" /> </a> <a href="https://www.python.org" target="_blank"> <img src = "https: // raw .githubusercontent.com / devicons / devicon / master / icons / python / python-original.svg "alt =" python "width =" 40 "height =" 40 "/> </a> <a href = "https://reactjs.org/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark. svg "alt =" reaccionar "width =" 40 "height =" 40 "/> </a> <a href="https://sass-lang.com" target="_blank"> <img src =" https : //raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href = "https://spring.io/" target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "spring" width = "40 "altura =" 40 "/></a> <a href="https://www.sqlite.org/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg "alt =" sqlite "width =" 40 "height =" 40 "/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> < img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt = "xd" width = "40" height = "40" /> </a> </p></a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/adobe- xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </a> </p></a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/adobe- xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </a> </p>
+
+<h3 align = "left"> Asistencia: </h3>
+<p> <a href="https://www.buymeacoffee.com/Ualb"> <img align = "left" src = "https: // cdn .buymeacoffee.com / buttons / v2 / default-yellow.png "height =" 50 "width =" 210 "alt =" Ualb "/> </a> </p> <br> <br>
+
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=ualb&show_icons=true&locale=en&layout=compact" alt = "ualb" /> </p>
+
+<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ualb&show_icons=true&locale=en" alt = "ualb" /> </p>
+
+<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ualb&" alt = "ualb" /> </p>
