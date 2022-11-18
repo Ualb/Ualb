@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ualb)
+<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ualb) -->
 
 ## **Hi! I am Ulises López 👋**
 
@@ -7,7 +7,7 @@
 #### I live in Managua, Nicaragua, i am a technology enthusiast and good friend :)
     
 - ⚡ I’m currently learning everything 🤣 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects, terminated my old proyects
 - 🤣 Fun fact: I love to play guitar / harmonica
  
 ### Connect with me:
